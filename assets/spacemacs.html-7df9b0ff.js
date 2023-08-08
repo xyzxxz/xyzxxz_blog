@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3754386e","path":"/emacs/spacemacs.html","title":"Spacemacs","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"emacs/spacemacs.md"}');export{a as data};

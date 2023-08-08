@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as s,a as e,d as t}from"./app-2c680f2e.js";const o={},r=e("h1",{id:"spacemacs",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#spacemacs","aria-hidden":"true"},"#"),t(" Spacemacs")],-1),n=[r];function _(d,i){return c(),s("div",null,n)}const h=a(o,[["render",_],["__file","spacemacs.html.vue"]]);export{h as default};
